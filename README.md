@@ -7,7 +7,8 @@ Express和Squirrel都是收费软件 两款都比较稳   Express可以解封Net
 苹果APP 可以切换至外区商店下载  
 本集合大部分为安卓手机版本以及电脑版本(安卓谷歌play商店需安装谷歌框架)
 
-南韩交流Telegram电报群 : https://t.me/South_Korea_Chat
+南韩交流Telegram电报群: https://t.me/South_Korea_Chat
+科学上网杂谈Telegram电报群: https://t.me/kexueshangwanga
 
 苹果外区商店(香港)注册教程: https://www.squirrelvpn.com/ios-register-HK-apple-id.html  
 苹果外区商店(香港)注册教程备用PDF：https://github.com/yangqi0425/kexueshangwang/blob/master/Image%20%26%20PDF/%E9%A6%99%E6%B8%AF%E8%8B%B9%E6%9E%9C%E5%95%86%E5%BA%97Appstore%20ID%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B.pdf
