@@ -15,7 +15,8 @@ https://github.com/shadowrocketHelp/help/wiki/%E5%9B%BD%E5%A4%96-appstore-id-%E8
 ExpressVPN官网: https://www.expressvpn.com/
 
 SquirrelVPN官网: https://www.squirrelvpn.com/  
-GitHub备用下载: https://github.com/squirrelvpn/download/blob/master/README.md
+GitHub备用下载: https://github.com/yangqi0425/download  
+https://github.com/squirrelvpn/download/blob/master/README.md
 
 VPN测速及其他推荐: https://10beasts.net/
 
