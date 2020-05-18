@@ -2,7 +2,7 @@
 科学上网集合  
 Express和Squirrel都是收费软件 两款都很棒  
 SquirrelVPN很稳  
-ExpressVPN 也比较稳而且可以解封Netflix等限制
+ExpressVPN 也比较稳而且可以解封Netflix等限制  
 
 手机打开点击 View code可查看文件夹  
 本集合旨在更加快速简单的科学上网  
