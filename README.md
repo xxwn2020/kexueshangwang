@@ -4,8 +4,10 @@
 苹果APP 可以切换至外区商店下载
 本集合大部分为安卓手机版本以及电脑版本
 
+南韩交流Telegram电报群 : https://t.me/South_Korea_Chat
+
 国外 appstore id 账号分享 参考这个链接
 https://github.com/shadowrocketHelp/help/wiki/%E5%9B%BD%E5%A4%96-appstore-id-%E8%B4%A6%E5%8F%B7%E5%88%86%E4%BA%AB
 
 
-南韩交流Telegram电报群 : https://t.me/South_Korea_Chat
+
