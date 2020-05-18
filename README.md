@@ -19,5 +19,5 @@ GitHub备用下载: https://github.com/squirrelvpn/download/blob/master/README.m
 
 VPN测速及其他推荐: https://10beasts.net/
 
-IPSec VPN服务器一件脚本 https://github.com/yangqi0425/setup-ipsec-vpn       
+IPSec VPN服务器一键安装脚本 https://github.com/yangqi0425/setup-ipsec-vpn       
 forked from hwdsl2/setup-ipsec-vpn
