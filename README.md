@@ -5,7 +5,7 @@ Express和Squirrel都是收费软件 两款都比较稳   Express可以解封Net
   
 翻墙软件在VPN文件夹  
 苹果APP 可以切换至外区商店下载  
-本集合大部分为安卓手机版本以及电脑版本(安卓谷歌普拉亚商店需安装谷歌框架)
+本集合大部分为安卓手机版本以及电脑版本(安卓谷歌play商店需安装谷歌框架)
 
 南韩交流Telegram电报群 : https://t.me/South_Korea_Chat
 
