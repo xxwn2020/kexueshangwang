@@ -9,7 +9,7 @@ Express和Squirrel都是收费软件 两款都比较稳   Express可以解封Net
 
 南韩交流Telegram电报群 : https://t.me/South_Korea_Chat
 
-苹果外区商店(香港)注册教程: https://www.squirrelvpn.com/ios-register-HK-apple-id.html
+苹果外区商店(香港)注册教程: https://www.squirrelvpn.com/ios-register-HK-apple-id.html  
 国外 appstore id 账号分享 参考这个链接
 https://github.com/shadowrocketHelp/help/wiki/%E5%9B%BD%E5%A4%96-appstore-id-%E8%B4%A6%E5%8F%B7%E5%88%86%E4%BA%AB
 
