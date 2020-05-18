@@ -16,3 +16,5 @@ ExpressVPN官网: https://www.expressvpn.com/
 
 SquirrelVPN官网: https://www.squirrelvpn.com/  
 GitHub备用下载: https://github.com/squirrelvpn/download/blob/master/README.md
+
+测速及其他推荐：https://10beasts.net/
