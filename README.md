@@ -2,6 +2,7 @@
 本集合旨在更加快速简单的科学上网  
  
 Express和Squirrel都是收费软件 两款都比较稳   Express可以解封Netflix限制  
+Winscribe 可免费使用 也可付费使用更多服务器
   
 翻墙软件在VPN文件夹  
 苹果APP 可以切换至外区商店下载  
@@ -21,6 +22,7 @@ ExpressVPN官网: https://www.expressvpn.com/
 SquirrelVPN官网: https://www.squirrelvpn.com/  
 GitHub备用下载: https://github.com/yangqi0425/download  
                https://github.com/squirrelvpn/download/blob/master/README.md
+WindscribeVPN官网: https://chn.windscribe.com/ 可右上角选择语言              
 
 VPN测速及其他推荐: https://10beasts.net/
 
