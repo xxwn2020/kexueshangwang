@@ -1,4 +1,4 @@
-# 科学上网 手机点击View code或者Brose code可查看文件夹  如需进阶点击View all of README.md
+# 科学上网 手机点击View code或者Brose code可查看文件夹    如需进阶点击View all of README.md
 本集合旨在更加快速简单的科学上网  
  
 Express和Squirrel都是收费软件 两款都比较稳   Express可以解封Netflix限制  
