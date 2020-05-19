@@ -40,6 +40,8 @@
   - GitHub[备份下载1](https://github.com/yangqi0425/setup-ipsec-vpn)  
   - GitHub[备份下载2](https://github.com/hwdsl2/setup-ipsec-vpn)
 
+**软件**  
+> [社交软件合集](https://github.com/yangqi0425/kexueshangwang/tree/master/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E8%BD%AF%E4%BB%B6%E5%90%88%E9%9B%86%E5%AE%89%E5%8D%93%E7%89%88)
 
 **路由器刷机或者软路由**    
 > [Openwrt官网](https://openwrt.org/start?id=zh/start)
