@@ -15,8 +15,8 @@ If you want to help me translate,please write it on [Issues](https://github.com/
 - this repository is work on Android app, PC, Mac and Linux.([China version Android phone need install google GMS](https://github.com/yangqi0425/kexueshangwang/tree/master/%E8%B0%B7%E6%AD%8C%E6%A1%86%E6%9E%B6%E5%AE%89%E8%A3%85))
 
 **Telegram Group**
-- [南韩杂谈Telegram Group:](https://t.me/South_Korea_Chat)  
-- [科学上网杂谈Telegram Group](https://t.me/KeXueShangWangBa)  
+- [South_Korea Telegram Group:](https://t.me/South_Korea_Chat)  
+- [VPN Telegram Group](https://t.me/KeXueShangWangBa)  
 
 **VPN**    
 > [ExpressVPN Offical Website](https://www.expressvpn.com/)  
