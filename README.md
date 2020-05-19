@@ -39,7 +39,7 @@
 
 
 **路由器刷机或者软路由**    
-> Openwrt
+> [Openwrt官网](https://openwrt.org/start?id=zh/start)
   - openwrt [各版本地址](https://github.com/yangqi0425/openwrt/releases)  
   - openwrt_19.07.02 [下载地址](https://github.com/yangqi0425/openwrt/releases/tag/v19.07.2)  
 
