@@ -33,7 +33,7 @@
 > [VPN测速及其他推荐](https://10beasts.net/)  
 
 **IPSec VPN服务器**
-> 一键安装脚本  
+> [一键安装脚本](https://github.com/yangqi0425/setup-ipsec-vpn/blob/master/README-zh.md)  
   - GitHub[备份下载1](https://github.com/yangqi0425/setup-ipsec-vpn)  
   - GitHub[备份下载2](https://github.com/hwdsl2/setup-ipsec-vpn)
 
