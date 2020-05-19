@@ -6,7 +6,7 @@
              ~~[日本語](https://github.com/yangqi0425/kexueshangwang/blob/master/README-JP.md)~~
 If you want to help me translate,please write it on [Issues](https://github.com/yangqi0425/kexueshangwang/issues), thank you very much.
 
-> update_20200519 add_Download_tool **Motrix**
+> update_20200519 add_Download_tool **[Motrix](https://github.com/yangqi0425/Motrix)**
 
 - [Express](https://www.expressvpn.com/) and [Squirrel](https://www.squirrelvpn.com/) both work well in China,   [Express](https://www.expressvpn.com/) cloud even watch Netflix in China. 
 - [Winscribe](https://chn.windscribe.com/) free serve is available
