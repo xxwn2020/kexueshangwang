@@ -2,8 +2,8 @@
 
 *Language* : [English](https://github.com/yangqi0425/kexueshangwang/blob/master/README-EN.md)
              [中文](https://github.com/yangqi0425/kexueshangwang/edit/master/README.md) 
-             [한국어](https://github.com/yangqi0425/kexueshangwang/blob/master/README-KR.md)
-             [日本語](https://github.com/yangqi0425/kexueshangwang/blob/master/README-JP.md)
+             ~~[한국어](https://github.com/yangqi0425/kexueshangwang/blob/master/README-KR.md)
+             [日本語]~~(https://github.com/yangqi0425/kexueshangwang/blob/master/README-JP.md)
 If you want to help me translate,please write it on [Issues](https://github.com/yangqi0425/kexueshangwang/issues), thank you very much.
 
 **This Github will help you to use VPN in China** 
