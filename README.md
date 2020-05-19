@@ -1,8 +1,8 @@
 # 科学上网 可点击View all of README.md有详细说明
-语言: [中文](https://github.com/yangqi0425/kexueshangwang/edit/master/README.md) 
-      [한국어](https://github.com/yangqi0425/kexueshangwang/blob/master/README-KR.md)
-      [日本語](https://github.com/yangqi0425/kexueshangwang/blob/master/README-JP.md)
-      [English](https://github.com/yangqi0425/kexueshangwang/blob/master/README-EN.md)
+**语言**: [中文](https://github.com/yangqi0425/kexueshangwang/edit/master/README.md) 
+          [한국어](https://github.com/yangqi0425/kexueshangwang/blob/master/README-KR.md)
+          [日本語](https://github.com/yangqi0425/kexueshangwang/blob/master/README-JP.md)
+          [English](https://github.com/yangqi0425/kexueshangwang/blob/master/README-EN.md)  
 **本集合旨在更加快速简单的科学上网**  
 > update_20200519 添加了完美替代迅雷下载工具 Motrix
  
