@@ -42,6 +42,6 @@ https://github.com/shadowrocketHelp/help/wiki/%E5%9B%BD%E5%A4%96-appstore-id-%E8
 
 **下载工具Motrix-完美替代迅雷**  
 > Motrix官网: https://motrix.app/  
-> Github备份地址: https://github.com/yangqi0425/Motrix  
-> Github备份下载地址: https://github.com/agalwood/Motrix/releases
+- Github备份地址: https://github.com/yangqi0425/Motrix  
+- Github备份下载地址: https://github.com/agalwood/Motrix/releases
  
