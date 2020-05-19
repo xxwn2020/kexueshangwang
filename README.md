@@ -1,11 +1,10 @@
-# 科学上网 可点击View all of README.md有详细说明
+# 科学上网 可点击View all of README.md有详细说明，  **本集合旨在更加快速简单的科学上网** 
 
 *语言* : [中文](https://github.com/yangqi0425/kexueshangwang/blob/master/README.md) 
          ~~[한국어](https://github.com/yangqi0425/kexueshangwang/blob/master/README-KR.md)~~
          ~~[日本語](https://github.com/yangqi0425/kexueshangwang/blob/master/README-JP.md)~~
          [English](https://github.com/yangqi0425/kexueshangwang/blob/master/README-EN.md)  
-
-**本集合旨在更加快速简单的科学上网**  
+ 
 > update_20200519 添加了完美替代迅雷下载工具 Motrix
 - [Express](https://www.expressvpn.com/)和[Squirrel](https://www.squirrelvpn.com/)都是收费软件 两款都比较稳   [Express](https://www.expressvpn.com/)可以解封Netflix限制  
 - [Winscribe](https://chn.windscribe.com/)提供免费服务器 可作为备用       
