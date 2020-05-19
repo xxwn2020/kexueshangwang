@@ -12,7 +12,7 @@
 - 本集合大部分为安卓手机版本以及电脑版本([安卓谷歌play商店需安装谷歌框架](https://github.com/yangqi0425/kexueshangwang/tree/master/%E8%B0%B7%E6%AD%8C%E6%A1%86%E6%9E%B6%E5%AE%89%E8%A3%85))  
 
 **Tlegram电报群**
-- [南韩杂谈Telegram电报群:](https://t.me/South_Korea_Chat)  
+- [南韩杂谈Telegram电报群](https://t.me/South_Korea_Chat)  
 - [科学上网杂谈Telegram电报群](https://t.me/KeXueShangWangBa)  
 
 **苹果外区商店注册共享**
