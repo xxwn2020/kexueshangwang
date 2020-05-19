@@ -36,6 +36,6 @@ openwrt版本地址: https://github.com/yangqi0425/openwrt/releases
 openwrt19.07.02 下载地址:  https://github.com/yangqi0425/openwrt/releases/tag/v19.07.2
 
 下载工具Motrix官网-完美替代迅雷: https://motrix.app/  
-Github备份地址: https://github.com/yangqi0425/Motrix
+Github备份地址: https://github.com/yangqi0425/Motrix  
 Github备份下载地址: https://github.com/agalwood/Motrix/releases
  
