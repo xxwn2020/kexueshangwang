@@ -9,8 +9,8 @@ update_20200519 添加了完美替代迅雷下载工具 Motrix
 - 本集合大部分为安卓手机版本以及电脑版本(安卓谷歌play商店需安装谷歌框架)  
 
 **Tlegram电报群**
-> [南韩交流Telegram电报群:](https://t.me/South_Korea_Chat)  
-> [科学上网杂谈Telegram电报群](https://t.me/KeXueShangWangBa)  
+- [南韩交流Telegram电报群:](https://t.me/South_Korea_Chat)  
+- [科学上网杂谈Telegram电报群](https://t.me/KeXueShangWangBa)  
 
 **苹果外区商店注册共享**
 - [苹果外区商店(香港)注册教程](https://www.squirrelvpn.com/ios-register-HK-apple-id.html)  
