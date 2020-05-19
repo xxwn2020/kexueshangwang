@@ -23,9 +23,8 @@ update_20200519 添加了完美替代迅雷下载工具 Motrix
 > ExpressVPN官网: https://www.expressvpn.com/  
 
 > SquirrelVPN官网: https://www.squirrelvpn.com/  
-- GitHub备用下载: 
-  - https://github.com/yangqi0425/download  
-  - https://github.com/squirrelvpn/download/blob/master/README.md  
+- GitHub[备用下载1](https://github.com/yangqi0425/download)  
+- Github[备用下载2](https://github.com/squirrelvpn/download/blob/master/README.md)  
   
 > WindscribeVPN官网: https://chn.windscribe.com/ 可右上角选择语言              
 
