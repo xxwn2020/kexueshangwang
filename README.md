@@ -18,12 +18,13 @@ Winscribe 可免费使用 推特分享后最多每个月15GB流量 也可付费�
 国外 appstore id 账号分享 参考这个链接
 https://github.com/shadowrocketHelp/help/wiki/%E5%9B%BD%E5%A4%96-appstore-id-%E8%B4%A6%E5%8F%B7%E5%88%86%E4%BA%AB
 
-ExpressVPN官网: https://www.expressvpn.com/
+**VPN相关**    
+> ExpressVPN官网: https://www.expressvpn.com/
 
-SquirrelVPN官网: https://www.squirrelvpn.com/  
-GitHub备用下载: https://github.com/yangqi0425/download  
+> SquirrelVPN官网: https://www.squirrelvpn.com/  
+> GitHub备用下载: https://github.com/yangqi0425/download  
                https://github.com/squirrelvpn/download/blob/master/README.md
-WindscribeVPN官网: https://chn.windscribe.com/ 可右上角选择语言              
+> WindscribeVPN官网: https://chn.windscribe.com/ 可右上角选择语言              
 
 VPN测速及其他推荐: https://10beasts.net/
 
@@ -32,10 +33,10 @@ IPSec VPN服务器一键安装脚本: https://github.com/yangqi0425/setup-ipsec-
 
 
 路由器刷机或者软路由        
->openwrt版本地址: https://github.com/yangqi0425/openwrt/releases  
+> openwrt版本地址: https://github.com/yangqi0425/openwrt/releases  
 > openwrt19.07.02 下载地址:  https://github.com/yangqi0425/openwrt/releases/tag/v19.07.2
 
 下载工具Motrix官网-完美替代迅雷: https://motrix.app/  
->Github备份地址: https://github.com/yangqi0425/Motrix  
+> Github备份地址: https://github.com/yangqi0425/Motrix  
 > Github备份下载地址: https://github.com/agalwood/Motrix/releases
  
