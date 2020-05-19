@@ -1,8 +1,8 @@
 # 科学上网 可点击View all of README.md有详细说明
 
 *语言* : [中文](https://github.com/yangqi0425/kexueshangwang/blob/master/README.md) 
-         [한국어](https://github.com/yangqi0425/kexueshangwang/blob/master/README-KR.md)
-         [日本語](https://github.com/yangqi0425/kexueshangwang/blob/master/README-JP.md)
+         ~~[한국어](https://github.com/yangqi0425/kexueshangwang/blob/master/README-KR.md)~~
+         ~~[日本語](https://github.com/yangqi0425/kexueshangwang/blob/master/README-JP.md)~~
          [English](https://github.com/yangqi0425/kexueshangwang/blob/master/README-EN.md)
          如有协助翻译者可在[Issues留言](https://github.com/yangqi0425/kexueshangwang/issues)，万分感谢
 
