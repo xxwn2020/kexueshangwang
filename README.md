@@ -19,11 +19,10 @@ Winscribe 可免费使用 推特分享后最多每个月15GB流量 也可付费�
 https://github.com/shadowrocketHelp/help/wiki/%E5%9B%BD%E5%A4%96-appstore-id-%E8%B4%A6%E5%8F%B7%E5%88%86%E4%BA%AB
 
 **VPN相关**    
-> ExpressVPN官网: https://www.expressvpn.com/
-
+> ExpressVPN官网: https://www.expressvpn.com/  
 > SquirrelVPN官网: https://www.squirrelvpn.com/  
-> GitHub备用下载: https://github.com/yangqi0425/download  
-               https://github.com/squirrelvpn/download/blob/master/README.md
+> GitHub备用下载: >> https://github.com/yangqi0425/download  
+                 >> https://github.com/squirrelvpn/download/blob/master/README.md  
 > WindscribeVPN官网: https://chn.windscribe.com/ 可右上角选择语言              
 
 VPN测速及其他推荐: https://10beasts.net/
