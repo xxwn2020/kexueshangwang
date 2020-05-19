@@ -31,6 +31,9 @@ If you want to help me translate,please write it on [Issues](https://github.com/
   - GitHub[Backup Download](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/Windscribe)
 > [VPN_test_Chinese](https://10beasts.net/)  
 
+**APP**
+> [Android_social_network_apps](https://github.com/yangqi0425/kexueshangwang/tree/master/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E8%BD%AF%E4%BB%B6%E5%90%88%E9%9B%86%E5%AE%89%E5%8D%93%E7%89%88)  
+
 **IPSec VPN Serve**
 > [Install](https://github.com/yangqi0425/setup-ipsec-vpn/blob/master/README.md)  
   - GitHub[Backup Download_1](https://github.com/yangqi0425/setup-ipsec-vpn)  
