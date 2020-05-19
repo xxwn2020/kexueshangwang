@@ -28,12 +28,12 @@ If you want to help me translate,please write it on [Issues](https://github.com/
   - GitHub[Backup Download_1](https://github.com/yangqi0425/download)  
   - GitHub[Backup Download_2](https://github.com/squirrelvpn/download/blob/master/README.md)  
   
-> [WindscribeVPN Offical Website](https://chn.windscribe.com/) 可右上角选择语言              
+> [WindscribeVPN Offical Website](https://chn.windscribe.com/)              
   - GitHub[Backup Download](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/Windscribe)
 > [VPN_test_Chinese](https://10beasts.net/)  
 
 **IPSec VPN Serve**
-> [Install](https://github.com/yangqi0425/setup-ipsec-vpn/blob/master/README-zh.md)  
+> [Install](https://github.com/yangqi0425/setup-ipsec-vpn/blob/master/README.md)  
   - GitHub[Backup Download_1](https://github.com/yangqi0425/setup-ipsec-vpn)  
   - GitHub[Backup Download_2](https://github.com/hwdsl2/setup-ipsec-vpn)
 
