@@ -3,8 +3,7 @@
 *语言* : [中文](https://github.com/yangqi0425/kexueshangwang/blob/master/README.md) 
          ~~[한국어](https://github.com/yangqi0425/kexueshangwang/blob/master/README-KR.md)~~
          ~~[日本語](https://github.com/yangqi0425/kexueshangwang/blob/master/README-JP.md)~~
-         [English](https://github.com/yangqi0425/kexueshangwang/blob/master/README-EN.md)
-         如有协助翻译者可在[Issues留言](https://github.com/yangqi0425/kexueshangwang/issues)，万分感谢
+         [English](https://github.com/yangqi0425/kexueshangwang/blob/master/README-EN.md)  
 
 **本集合旨在更加快速简单的科学上网**  
 > update_20200519 添加了完美替代迅雷下载工具 Motrix
@@ -52,4 +51,7 @@
 > [Motrix官网](https://motrix.app/)  
   - GitHub [备份地址](https://github.com/yangqi0425/Motrix)  
   - GitHub [备份下载地址](https://github.com/agalwood/Motrix/releases)
+  
+  
+**如有协助翻译者可在[Issues留言](https://github.com/yangqi0425/kexueshangwang/issues)，万分感谢**
  
