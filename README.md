@@ -1,4 +1,4 @@
-# 科学上网  手机点击View code或者Brose code可查看文件夹，如需进阶点击View all of README.md有详细说明 可点击右侧的绿色按钮打包下载，也可单独下
+# 科学上网 可点击View all of README.md有详细说明
 **本集合旨在更加快速简单的科学上网**  
 > update_20200519 添加了完美替代迅雷下载工具 Motrix
  
