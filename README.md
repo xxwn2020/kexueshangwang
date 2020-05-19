@@ -21,13 +21,15 @@
 
 **VPN相关**    
 > [ExpressVPN官网](https://www.expressvpn.com/)  
+  - GitHub[备份下载](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/ExpressVPN)
 
-> [SquirrelVPN官网](https://www.squirrelvpn.com/)  
+> [SquirrelVPN官网](https://www.squirrelvpn.com/)
+  - GitHub[备份下载0](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/SquirrelVPN)
   - GitHub[备份下载1](https://github.com/yangqi0425/download)  
-  - Github[备份下载2](https://github.com/squirrelvpn/download/blob/master/README.md)  
+  - GitHub[备份下载2](https://github.com/squirrelvpn/download/blob/master/README.md)  
   
 > [WindscribeVPN官网](https://chn.windscribe.com/) 可右上角选择语言              
-
+  - GitHub[备份下载](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/Windscribe)
 > [VPN测速及其他推荐](https://10beasts.net/)  
 
 **IPSec VPN服务器**
