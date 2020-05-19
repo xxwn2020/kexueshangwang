@@ -1,13 +1,15 @@
 # 科学上网  手机点击View code或者Brose code可查看文件夹，如需进阶点击View all of README.md 可点击右侧的绿色按钮打包下载，也可单独下
 本集合旨在更加快速简单的科学上网  
 update_20200519 添加了完美替代迅雷下载工具 Motrix
- 
-Express和Squirrel都是收费软件 两款都比较稳   Express可以解封Netflix限制  
-Winscribe 可免费使用 推特分享后最多每个月15GB流量 也可付费使用更多服务器 可免费版本作为备用
-  
-翻墙软件在VPN文件夹  
-苹果APP 可以切换至外区商店下载  
-本集合大部分为安卓手机版本以及电脑版本(安卓谷歌play商店需安装谷歌框架)  
+
+**推荐** 
+> Express和Squirrel都是收费软件 两款都比较稳   Express可以解封Netflix限制  
+> Winscribe 可免费使用 推特分享后最多每个月15GB流量 也可付费使用更多服务器 可免费版本作为备用
+
+**引导**   
+> 翻墙软件在VPN文件夹  
+> 苹果APP 可以切换至外区商店下载  
+> 本集合大部分为安卓手机版本以及电脑版本(安卓谷歌play商店需安装谷歌框架)  
 
 **Tlegram电报群**
 > 南韩交流Telegram电报群: https://t.me/South_Korea_Chat  
