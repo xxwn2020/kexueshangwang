@@ -31,9 +31,9 @@ update_20200519 添加了完美替代迅雷下载工具 Motrix
 >VPN测速及其他推荐: https://10beasts.net/
 
 **IPSec VPN服务器**
-> 一键安装脚本:  
-  - https://github.com/yangqi0425/setup-ipsec-vpn  
-  - https://github.com/hwdsl2/setup-ipsec-vpn
+> 一键安装脚本  
+  - [Github_1](https://github.com/yangqi0425/setup-ipsec-vpn)  
+  - [Github_2](https://github.com/hwdsl2/setup-ipsec-vpn)
 
 
 **路由器刷机或者软路由**        
