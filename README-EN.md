@@ -1,4 +1,4 @@
-# Use VPN in China,Click View all of README.md to get the Way  
+# Use VPN in China,Click View all of README.md to get the way  
 
 *Language* : [English](https://github.com/yangqi0425/kexueshangwang/blob/master/README-EN.md)
              [中文](https://github.com/yangqi0425/kexueshangwang/edit/master/README.md) 
