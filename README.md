@@ -5,7 +5,7 @@
          ~~[日本語](https://github.com/yangqi0425/kexueshangwang/blob/master/README-JP.md)~~
          [English](https://github.com/yangqi0425/kexueshangwang/blob/master/README-EN.md)  
  
-> update_20200519 添加了完美替代迅雷下载工具 Motrix
+> update_20200519 添加了完美替代迅雷下载工具 **[Motrix](https://github.com/yangqi0425/Motrix)**
 - [Express](https://www.expressvpn.com/)和[Squirrel](https://www.squirrelvpn.com/)都是收费软件 两款都比较稳   [Express](https://www.expressvpn.com/)可以解封Netflix限制  
 - [Winscribe](https://chn.windscribe.com/)提供免费服务器 可作为备用       
 - 翻墙软件在[VPN文件夹](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN) **苹果** 可以切换至外区商店下载APP  
