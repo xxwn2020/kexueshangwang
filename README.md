@@ -23,8 +23,8 @@ update_20200519 添加了完美替代迅雷下载工具 Motrix
 > [ExpressVPN官网](https://www.expressvpn.com/)  
 
 > [SquirrelVPN官网](https://www.squirrelvpn.com/)  
-  - GitHub[备用下载1](https://github.com/yangqi0425/download)  
-  - Github[备用下载2](https://github.com/squirrelvpn/download/blob/master/README.md)  
+  - GitHub[备份下载1](https://github.com/yangqi0425/download)  
+  - Github[备份下载2](https://github.com/squirrelvpn/download/blob/master/README.md)  
   
 > [WindscribeVPN官网](https://chn.windscribe.com/) 可右上角选择语言              
 
@@ -32,8 +32,8 @@ update_20200519 添加了完美替代迅雷下载工具 Motrix
 
 **IPSec VPN服务器**
 > 一键安装脚本  
-  - [Github下载1](https://github.com/yangqi0425/setup-ipsec-vpn)  
-  - [Github下载2](https://github.com/hwdsl2/setup-ipsec-vpn)
+  - GitHub[备份下载1](https://github.com/yangqi0425/setup-ipsec-vpn)  
+  - GitHub[备份下载2](https://github.com/hwdsl2/setup-ipsec-vpn)
 
 
 **路由器刷机或者软路由**    
@@ -43,6 +43,6 @@ update_20200519 添加了完美替代迅雷下载工具 Motrix
 
 **下载工具Motrix-完美替代迅雷**  
 > [Motrix官网](https://motrix.app/)  
-  - Github [备份地址](https://github.com/yangqi0425/Motrix)  
-  - Github [备份下载地址](https://github.com/agalwood/Motrix/releases)
+  - GitHub [备份地址](https://github.com/yangqi0425/Motrix)  
+  - GitHub [备份下载地址](https://github.com/agalwood/Motrix/releases)
  
