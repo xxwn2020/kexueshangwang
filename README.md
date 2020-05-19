@@ -1,5 +1,6 @@
 # 科学上网  手机点击View code或者Brose code可查看文件夹，如需进阶点击View all of README.md 可点击右侧的绿色按钮打包下载，也可单独下
 本集合旨在更加快速简单的科学上网  
+update_20200519 添加了完美替代迅雷下载工具 Motrix
  
 Express和Squirrel都是收费软件 两款都比较稳   Express可以解封Netflix限制  
 Winscribe 可免费使用 推特分享后最多每个月15GB流量 也可付费使用更多服务器 可免费版本作为备用
@@ -34,6 +35,6 @@ IPSec VPN服务器一键安装脚本: https://github.com/yangqi0425/setup-ipsec-
 openwrt版本地址: https://github.com/yangqi0425/openwrt/releases  
 openwrt19.07.02 下载地址:  https://github.com/yangqi0425/openwrt/releases/tag/v19.07.2
 
-下载工具Motrix官网-可替代限速迅雷: https://motrix.app/  
+下载工具Motrix官网-完美替代迅雷: https://motrix.app/  
 Github备份地址: https://github.com/yangqi0425/Motrix
  
