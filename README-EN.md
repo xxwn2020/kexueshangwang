@@ -28,7 +28,7 @@ If you want to help me translate,please write it on [Issues](https://github.com/
   - GitHub[Backup Download_1](https://github.com/yangqi0425/download)  
   - GitHub[Backup Download_2](https://github.com/squirrelvpn/download/blob/master/README.md)  
   
-> [WindscribeVPN Offical Website](https://chn.windscribe.com/)              
+> [WindscribeVPN Offical Website](https://windscribe.com/)              
   - GitHub[Backup Download](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/Windscribe)
 > [VPN_test_Chinese](https://10beasts.net/)  
 
@@ -39,7 +39,7 @@ If you want to help me translate,please write it on [Issues](https://github.com/
 
 
 **Router**    
-> [Openwrt Offical Website](https://openwrt.org/start?id=zh/start)
+> [Openwrt Offical Website](https://openwrt.org/)
   - openwrt [Version](https://github.com/yangqi0425/openwrt/releases)  
   - openwrt_19.07.02 [Download](https://github.com/yangqi0425/openwrt/releases/tag/v19.07.2)  
 
