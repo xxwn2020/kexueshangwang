@@ -1,4 +1,4 @@
-# Use VPN in China,Click View all of README.md to get the way  
+# Use VPN in China,Click View all of README.md to get the way,  **This repository will help you to use VPN in China** 
 
 *Language* : [English](https://github.com/yangqi0425/kexueshangwang/blob/master/README-EN.md)
              [中文](https://github.com/yangqi0425/kexueshangwang/edit/master/README.md) 
@@ -6,10 +6,9 @@
              ~~[日本語](https://github.com/yangqi0425/kexueshangwang/blob/master/README-JP.md)~~
 If you want to help me translate,please write it on [Issues](https://github.com/yangqi0425/kexueshangwang/issues), thank you very much.
 
-**This Github will help you to use VPN in China** 
 > update_20200519 add_Download_tool **Motrix**
 
-[Express](https://www.expressvpn.com/) and [Squirrel](https://www.squirrelvpn.com/) both work well in China,   [Express](https://www.expressvpn.com/) cloud even watch Netflix in China. 
+- [Express](https://www.expressvpn.com/) and [Squirrel](https://www.squirrelvpn.com/) both work well in China,   [Express](https://www.expressvpn.com/) cloud even watch Netflix in China. 
 - [Winscribe](https://chn.windscribe.com/) free serve is available
 - [VPN in there](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN) 
 - iPhone/iPad need have a foreign appstore ID,and install app in appstore.
