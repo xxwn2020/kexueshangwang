@@ -13,7 +13,7 @@ update_20200519 添加了完美替代迅雷下载工具 Motrix
 > 科学上网杂谈Telegram电报群: https://t.me/KeXueShangWangBa  
 
 **苹果外区商店注册共享**
-> [苹果外区商店(香港)注册教程](https://www.squirrelvpn.com/ios-register-HK-apple-id.html)  
+- [苹果外区商店(香港)注册教程](https://www.squirrelvpn.com/ios-register-HK-apple-id.html)  
 - [苹果外区商店(香港)注册教程备用PDF](https://github.com/yangqi0425/kexueshangwang/blob/master/Image%20%26%20PDF/%E9%A6%99%E6%B8%AF%E8%8B%B9%E6%9E%9C%E5%95%86%E5%BA%97Appstore%20ID%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B.pdf) 
 
 -  [国外 appstore id 账号分享 点这个链接](https://github.com/shadowrocketHelp/help/wiki/%E5%9B%BD%E5%A4%96-appstore-id-%E8%B4%A6%E5%8F%B7%E5%88%86%E4%BA%AB) 
@@ -23,8 +23,8 @@ update_20200519 添加了完美替代迅雷下载工具 Motrix
 > ExpressVPN官网: https://www.expressvpn.com/  
 
 > SquirrelVPN官网: https://www.squirrelvpn.com/  
-- GitHub[备用下载1](https://github.com/yangqi0425/download)  
-- Github[备用下载2](https://github.com/squirrelvpn/download/blob/master/README.md)  
+  - GitHub[备用下载1](https://github.com/yangqi0425/download)  
+  - Github[备用下载2](https://github.com/squirrelvpn/download/blob/master/README.md)  
   
 > WindscribeVPN官网: https://chn.windscribe.com/ 可右上角选择语言              
 
@@ -36,12 +36,13 @@ update_20200519 添加了完美替代迅雷下载工具 Motrix
   - [Github下载2](https://github.com/hwdsl2/setup-ipsec-vpn)
 
 
-**路由器刷机或者软路由**        
-> openwrt [各版本地址](https://github.com/yangqi0425/openwrt/releases)  
-> openwrt19.07.02 [下载地址](https://github.com/yangqi0425/openwrt/releases/tag/v19.07.2)  
+**路由器刷机或者软路由**    
+> Openwrt
+  - openwrt [各版本地址](https://github.com/yangqi0425/openwrt/releases)  
+  - openwrt19.07.02 [下载地址](https://github.com/yangqi0425/openwrt/releases/tag/v19.07.2)  
 
 **下载工具Motrix-完美替代迅雷**  
 > Motrix官网: https://motrix.app/  
-- Github [备份地址](https://github.com/yangqi0425/Motrix)  
-- Github [备份下载地址](https://github.com/agalwood/Motrix/releases)
+  - Github [备份地址](https://github.com/yangqi0425/Motrix)  
+  - Github [备份下载地址](https://github.com/agalwood/Motrix/releases)
  
