@@ -28,7 +28,7 @@ If you want to help me translate,please write it on [Issues](https://github.com/
   - GitHub [Backup Download_2](https://github.com/squirrelvpn/download/blob/master/README.md)  
   
 > [WindscribeVPN Offical Website](https://windscribe.com/)              
-  - GitHub[Backup Download](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/Windscribe)
+  - GitHub [Backup Download](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/Windscribe)
 > [VPN_test_Chinese](https://10beasts.net/)  
 
 **APP**
