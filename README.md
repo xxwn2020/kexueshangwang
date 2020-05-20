@@ -24,12 +24,12 @@
 
 **VPN相关**    
 > [ExpressVPN官网](https://www.expressvpn.com/)  
-  - GitHub[备份下载](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/ExpressVPN)
+  - GitHub [备份下载](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/ExpressVPN)
 
 > [SquirrelVPN官网](https://www.squirrelvpn.com/)
-  - GitHub[备份下载0](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/SquirrelVPN)
-  - GitHub[备份下载1](https://github.com/yangqi0425/download)  
-  - GitHub[备份下载2](https://github.com/squirrelvpn/download/blob/master/README.md)  
+  - GitHub [备份下载0](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/SquirrelVPN)
+  - GitHub [备份下载1](https://github.com/yangqi0425/download)  
+  - GitHub [备份下载2](https://github.com/squirrelvpn/download/blob/master/README.md)  
   
 > [WindscribeVPN官网](https://chn.windscribe.com/) 可右上角选择语言              
   - GitHub[备份下载](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/Windscribe)
@@ -40,8 +40,8 @@
 
 **IPSec VPN服务器**
 > [一键安装脚本](https://github.com/yangqi0425/setup-ipsec-vpn/blob/master/README-zh.md)  
-  - GitHub[备份下载1](https://github.com/yangqi0425/setup-ipsec-vpn)  
-  - GitHub[备份下载2](https://github.com/hwdsl2/setup-ipsec-vpn)  
+  - GitHub [备份下载1](https://github.com/yangqi0425/setup-ipsec-vpn)  
+  - GitHub [备份下载2](https://github.com/hwdsl2/setup-ipsec-vpn)  
 
 **路由器刷机或者软路由**    
 > [Openwrt官网](https://openwrt.org/start?id=zh/start)
