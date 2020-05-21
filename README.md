@@ -9,7 +9,7 @@
 
 > update_20200520 底部加入了注意事项 可点击[View all of README.md](https://github.com/yangqi0425/kexueshangwang/blob/master/README.md)查看
   
-> update_20200521 加入了日本国立筑波大学的学术项目[VPNGate](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/VPNGate_Softether%20VPN)  / [VPNGate教程](https://github.com/yangqi0425/kexueshangwang/tree/master/Image%20%26%20PDF/VPNGate%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)   
+> update_20200521 加入了日本国立筑波大学的学术项目[VPNGate](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/VPNGate_Softether%20VPN)  / [即SoftetherVPN插件](https://www.softether.org/) / [VPNGate教程](https://github.com/yangqi0425/kexueshangwang/tree/master/Image%20%26%20PDF/VPNGate%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)   
 - [Express](https://www.expressvpn.com/)和[Squirrel](https://www.squirrelvpn.com/)都是收费软件 两款都比较稳 特别是[Squirrel](https://www.squirrelvpn.com/)几乎是绕过封锁的专家  但是[Express](https://www.expressvpn.com/)可以解封Netflix限制  
 - [Winscribe](https://chn.windscribe.com/)提供免费服务器 可作为备用       
 - 翻墙软件在[VPN文件夹](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN) **苹果** 可以切换至外区商店下载APP  
@@ -38,7 +38,8 @@
 > [WindscribeVPN官网](https://chn.windscribe.com/) 可右上角选择语言              
   - GitHub[备份下载](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/Windscribe)
   
-> [VPNGate官网](https://www.vpngate.net/cn/)
+> [VPNGate官网](https://www.vpngate.net/cn/)  
+  注:VPNGate是SoftetherVPN的插件 [Softether官网](https://www.softether.org/)
   - GitHub [备份VPNGate Windows 客户端下载](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/VPNGate_Softether%20VPN)  
   - VPNGate [学术简介](https://github.com/yangqi0425/kexueshangwang/blob/master/Image%20%26%20PDF/VPNGate%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/%E5%85%B3%E4%BA%8E%20VPN%20Gate%20%E5%AD%A6%E6%9C%AF%E9%A1%B9%E7%9B%AE.pdf)  
   - VPNGate [综述](https://github.com/yangqi0425/kexueshangwang/blob/master/Image%20%26%20PDF/VPNGate%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/VPN%20Gate%20%E7%BB%BC%E8%BF%B0.pdf)  
