@@ -7,7 +7,9 @@
  
 > update_20200519 添加了完美替代迅雷下载工具 **[Motrix](https://github.com/yangqi0425/Motrix)**
 
-> update_20200520 底部加入了注意事项 可点击[View all of README.md](https://github.com/yangqi0425/kexueshangwang/blob/master/README.md)查看  
+> update_20200520 底部加入了注意事项 可点击[View all of README.md](https://github.com/yangqi0425/kexueshangwang/blob/master/README.md)查看
+  
+> update_20200521 加入了日本国立筑波大学的学术项目[VPNGate](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/VPNGate_Softether%20VPN)  / [VPNGate教程](https://github.com/yangqi0425/kexueshangwang/tree/master/Image%20%26%20PDF/VPNGate%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)   
 - [Express](https://www.expressvpn.com/)和[Squirrel](https://www.squirrelvpn.com/)都是收费软件 两款都比较稳 特别是[Squirrel](https://www.squirrelvpn.com/)几乎是绕过封锁的专家  但是[Express](https://www.expressvpn.com/)可以解封Netflix限制  
 - [Winscribe](https://chn.windscribe.com/)提供免费服务器 可作为备用       
 - 翻墙软件在[VPN文件夹](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN) **苹果** 可以切换至外区商店下载APP  
@@ -19,22 +21,31 @@
 
 **苹果外区商店注册共享**
 - [苹果外区商店(香港)注册教程](https://www.squirrelvpn.com/ios-register-HK-apple-id.html)  
-- [苹果外区商店(香港)注册教程备用PDF](https://github.com/yangqi0425/kexueshangwang/blob/master/Image%20%26%20PDF/%E9%A6%99%E6%B8%AF%E8%8B%B9%E6%9E%9C%E5%95%86%E5%BA%97Appstore%20ID%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B.pdf) 
+- [苹果外区商店(香港)注册教程备用PDF](https://github.com/yangqi0425/kexueshangwang/blob/master/Image%20%26%20PDF/%E9%A6%99%E6%B8%AF%E8%8B%B9%E6%9E%9C%E5%95%86%E5%BA%97Appstore%20ID%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B/%E9%A6%99%E6%B8%AF%E8%8B%B9%E6%9E%9C%E5%95%86%E5%BA%97Appstore%20ID%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B.pdf) 
 
 -  [国外 appstore id 账号共享 点这个链接](https://github.com/shadowrocketHelp/help/wiki/%E5%9B%BD%E5%A4%96-appstore-id-%E8%B4%A6%E5%8F%B7%E5%88%86%E4%BA%AB) 
 
 
 **VPN相关**    
-> [ExpressVPN官网](https://www.expressvpn.com/)  
+> [ExpressVPN官网](https://www.expressvpn.com/) 
   - GitHub [备份下载](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/ExpressVPN)
 
-> [SquirrelVPN官网](https://www.squirrelvpn.com/)
+> [SquirrelVPN官网](https://www.squirrelvpn.com/) 
   - GitHub [备份下载0](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/SquirrelVPN)
   - GitHub [备份下载1](https://github.com/yangqi0425/download)  
   - GitHub [备份下载2](https://github.com/squirrelvpn/download/blob/master/README.md)  
   
 > [WindscribeVPN官网](https://chn.windscribe.com/) 可右上角选择语言              
   - GitHub[备份下载](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/Windscribe)
+  
+  [VPNGate官网](https://www.vpngate.net/cn/)
+  - GitHub [备份VPNGate Windows 客户端下载](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/VPNGate_Softether%20VPN)  
+  - VPNGate [学术简介](https://github.com/yangqi0425/kexueshangwang/blob/master/Image%20%26%20PDF/VPNGate%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/%E5%85%B3%E4%BA%8E%20VPN%20Gate%20%E5%AD%A6%E6%9C%AF%E9%A1%B9%E7%9B%AE.pdf)  
+  - VPNGate [综述](https://github.com/yangqi0425/kexueshangwang/blob/master/Image%20%26%20PDF/VPNGate%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/VPN%20Gate%20%E7%BB%BC%E8%BF%B0.pdf)  
+  - VPNGate [反滥用政策](https://github.com/yangqi0425/kexueshangwang/blob/master/Image%20%26%20PDF/VPNGate%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/VPN%20Gate%20%E5%8F%8D%E6%BB%A5%E7%94%A8%E6%94%BF%E7%AD%96.pdf)  
+  - VPNGate [常见问题](https://github.com/yangqi0425/kexueshangwang/blob/master/Image%20%26%20PDF/VPNGate%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/VPN%20Gate%20FAQ%20(%E5%B8%B8%E9%97%AE%E9%97%AE%E9%A2%98).pdf)  
+  - VPNGate [使用说明](https://github.com/yangqi0425/kexueshangwang/tree/master/Image%20%26%20PDF/VPNGate%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B) 
+  
 > [VPN测速及其他推荐](https://10beasts.net/)  
 
 **软件**  
