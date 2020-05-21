@@ -4,12 +4,15 @@
          ~~[한국어](https://github.com/yangqi0425/kexueshangwang/blob/master/README-KR.md)~~
          ~~[日本語](https://github.com/yangqi0425/kexueshangwang/blob/master/README-JP.md)~~
          [English](https://github.com/yangqi0425/kexueshangwang/blob/master/README-EN.md)  
+> update_20200521 加入了日本国立筑波大学的学术项目[VPNGate](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/VPNGate_Softether%20VPN)  / [即SoftetherVPN插件](https://www.softether.org/) / [VPNGate教程](https://github.com/yangqi0425/kexueshangwang/tree/master/Image%20%26%20PDF/VPNGate%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)  
+
+> update_20200520 底部加入了注意事项 可点击[View all of README.md](https://github.com/yangqi0425/kexueshangwang/blob/master/README.md)查看  
  
 > update_20200519 添加了完美替代迅雷下载工具 **[Motrix](https://github.com/yangqi0425/Motrix)**
 
-> update_20200520 底部加入了注意事项 可点击[View all of README.md](https://github.com/yangqi0425/kexueshangwang/blob/master/README.md)查看
+
   
-> update_20200521 加入了日本国立筑波大学的学术项目[VPNGate](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/VPNGate_Softether%20VPN)  / [即SoftetherVPN插件](https://www.softether.org/) / [VPNGate教程](https://github.com/yangqi0425/kexueshangwang/tree/master/Image%20%26%20PDF/VPNGate%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)   
+  
 - [Express](https://www.expressvpn.com/)和[Squirrel](https://www.squirrelvpn.com/)都是收费软件 两款都比较稳 特别是[Squirrel](https://www.squirrelvpn.com/)几乎是绕过封锁的专家  但是[Express](https://www.expressvpn.com/)可以解封Netflix限制  
 - [Winscribe](https://chn.windscribe.com/)提供免费服务器 可作为备用       
 - 翻墙软件在[VPN文件夹](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN) **苹果** 可以切换至外区商店下载APP  
