@@ -13,7 +13,7 @@
 
   
   
-- [Express](https://www.expressvpn.com/)和[Squirrel](https://www.squirrelvpn.com/)都是收费软件 两款都比较稳 特别是[Squirrel](https://www.squirrelvpn.com/)几乎是绕过封锁的专家  但是[Express](https://www.expressvpn.com/)可以解封Netflix限制  
+- [Express](https://www.expressvpn.com/)和[Squirrel](https://www.squirrelvpn.com/)都是收费软件 两款都比较稳 特别是[Squirrel](https://www.squirrelvpn.com/)几乎是绕过封锁的专家 **推荐码: MQYFPU** 但是[Express](https://www.expressvpn.com/)可以解封Netflix限制  
 - [Winscribe](https://chn.windscribe.com/)提供免费服务器 可作为备用       
 - 翻墙软件在[VPN文件夹](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN) **苹果** 可以切换至外区商店下载APP  
 - 本集合大部分为安卓手机版本以及电脑版本([安卓谷歌play商店需安装谷歌框架](https://github.com/yangqi0425/kexueshangwang/tree/master/%E8%B0%B7%E6%AD%8C%E6%A1%86%E6%9E%B6%E5%AE%89%E8%A3%85))  
