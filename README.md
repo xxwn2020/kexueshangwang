@@ -4,6 +4,9 @@
          ~~[한국어](https://github.com/yangqi0425/kexueshangwang/blob/master/README-KR.md)~~
          ~~[日本語](https://github.com/yangqi0425/kexueshangwang/blob/master/README-JP.md)~~
          [English](https://github.com/yangqi0425/kexueshangwang/blob/master/README-EN.md)  
+         
+> update_20200526 更新了[Express Windows MAC LINUX](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/ExpressVPN)的版本   
+
 > update_20200521 加入了日本国立筑波大学的学术项目[VPNGate](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/VPNGate_Softether%20VPN)  / [即SoftetherVPN插件](https://www.softether.org/) / [VPNGate教程](https://github.com/yangqi0425/kexueshangwang/tree/master/Image%20%26%20PDF/VPNGate%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)  
 
 > update_20200520 底部加入了注意事项 可点击[View all of README.md](https://github.com/yangqi0425/kexueshangwang/blob/master/README.md)查看  
