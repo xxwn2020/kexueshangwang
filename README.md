@@ -75,7 +75,7 @@
   - GitHub [备份下载地址](https://github.com/agalwood/Motrix/releases)
   
   
-**如有协助翻译者可在[Issues留言](https://github.com/yangqi0425/kexueshangwang/issues)，万分感谢**  
+**如有协助翻译及相关问题者可在[Issues留言](https://github.com/yangqi0425/kexueshangwang/issues)，万分感谢**  
 
 **因GFW加大了对IP的封锁，大部分的虚拟云主机的IP都被封锁，所以个人搭通道基本处于瘫痪状态**  
 
