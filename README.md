@@ -24,7 +24,7 @@
 
 **Telegram电报群**
 - [南韩杂谈Telegram电报群](https://t.me/South_Korea_Chat)  
-- [科学上网杂谈Telegram电报群](https://t.me/KeXueShangWangBa)  
+- [科学上网杂谈Telegram电报群](https://t.me/KeXueShangWangBa)  如有问题可群内咨询
 
 **苹果外区商店注册共享**
 - [苹果外区商店(香港)注册教程](https://www.squirrelvpn.com/ios-register-HK-apple-id.html)  
@@ -41,6 +41,7 @@
   - GitHub [备份下载0](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/SquirrelVPN)
   - GitHub [备份下载1](https://github.com/yangqi0425/download)  
   - GitHub [备份下载2](https://github.com/squirrelvpn/download/blob/master/README.md)  
+  - 关于kakaotalk PC 端登陆的问题，需要开代理，点击Use Current Setting，然后VPN开全局模式就可以了
   
 > [WindscribeVPN官网](https://chn.windscribe.com/) 可右上角选择语言              
   - GitHub[备份下载](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/Windscribe)
