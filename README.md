@@ -3,15 +3,11 @@
 *语言* : [中文](https://github.com/yangqi0425/kexueshangwang/blob/master/README.md) 
          ~~[한국어](https://github.com/yangqi0425/kexueshangwang/blob/master/README-KR.md)~~
          ~~[日本語](https://github.com/yangqi0425/kexueshangwang/blob/master/README-JP.md)~~
-         [English](https://github.com/yangqi0425/kexueshangwang/blob/master/README-EN.md)  
-         
+         [English](https://github.com/yangqi0425/kexueshangwang/blob/master/README-EN.md)   
+
+> update_20200608 更新了[**SquirrelVPN**](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/SquirrelVPN) **推荐码: MQYFPU  可获三天免费试用**   
+
 > update_20200526 更新了[**ExpressVPN**](https://www.expressrefer.com/refer-a-friend/30-days-free?utm_campaign=refer_friends&utm_medium=copy_link&utm_content=settings_get30daysfree&utm_source=ios_app&referrer_id=14504797) [Windows MAC LINUX](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/ExpressVPN)的版本   
-
-> update_20200521 加入了日本国立筑波大学的学术项目[VPNGate](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/VPNGate_Softether%20VPN)  / [即SoftetherVPN插件](https://www.softether.org/) / [VPNGate教程](https://github.com/yangqi0425/kexueshangwang/tree/master/Image%20%26%20PDF/VPNGate%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)  
-
-> update_20200520 底部加入了注意事项 可点击[View all of README.md](https://github.com/yangqi0425/kexueshangwang/blob/master/README.md)查看  
- 
-> update_20200519 添加了完美替代迅雷下载工具 **[Motrix](https://github.com/yangqi0425/Motrix)**
 
 
   
@@ -84,3 +80,14 @@
 - **为了自身安全不要使用国产免费的VPN，特别像是老王VPN,蚂蚁VPN等**  
 - **为了数据的安全不建议使用国产的安卓手机，无恶意特别指出华为**
  
+**更新日志:**
+
+ > update_20200608 更新了[**SquirrelVPN**](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/SquirrelVPN) **推荐码: MQYFPU  可获三天免费试用**   
+
+> update_20200526 更新了[**ExpressVPN**](https://www.expressrefer.com/refer-a-friend/30-days-free?utm_campaign=refer_friends&utm_medium=copy_link&utm_content=settings_get30daysfree&utm_source=ios_app&referrer_id=14504797) [Windows MAC LINUX](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/ExpressVPN)的版本   
+
+> update_20200521 加入了日本国立筑波大学的学术项目[VPNGate](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/VPNGate_Softether%20VPN)  / [即SoftetherVPN插件](https://www.softether.org/) / [VPNGate教程](https://github.com/yangqi0425/kexueshangwang/tree/master/Image%20%26%20PDF/VPNGate%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)  
+
+> update_20200520 底部加入了注意事项 可点击[View all of README.md](https://github.com/yangqi0425/kexueshangwang/blob/master/README.md)查看  
+ 
+> update_20200519 添加了完美替代迅雷下载工具 **[Motrix](https://github.com/yangqi0425/Motrix)**
