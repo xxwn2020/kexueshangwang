@@ -5,11 +5,9 @@
          ~~[日本語](https://github.com/yangqi0425/kexueshangwang/blob/master/README-JP.md)~~
          [English](https://github.com/yangqi0425/kexueshangwang/blob/master/README-EN.md)   
 
-> update_20200608 更新了[**SquirrelVPN**](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/SquirrelVPN) **推荐码: MQYFPU  可获三天免费试用**   
-
-> update_20200526 更新了[**ExpressVPN**](https://www.expressrefer.com/refer-a-friend/30-days-free?utm_campaign=refer_friends&utm_medium=copy_link&utm_content=settings_get30daysfree&utm_source=ios_app&referrer_id=14504797) [Windows MAC LINUX](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/ExpressVPN)的版本   
-
-
+> update_20200608   
+  更新了[**SquirrelVPN**](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/SquirrelVPN) [Windows、MAC、Android](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/SquirrelVPN)的版本 **推荐码: MQYFPU  可获三天免费试用**  
+  更新了[**ExpressVPN**](https://www.expressrefer.com/refer-a-friend/30-days-free?utm_campaign=refer_friends&utm_medium=copy_link&utm_content=settings_get30daysfree&utm_source=ios_app&referrer_id=14504797) [Windows、MAC](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/ExpressVPN)的版本   
   
   
 - [ExpressVPN](https://www.expressrefer.com/refer-a-friend/30-days-free?utm_campaign=refer_friends&utm_medium=copy_link&utm_content=settings_get30daysfree&utm_source=ios_app&referrer_id=14504797)和[SquirrelVPN](https://www.squirrelvpn.com/)都是收费软件 两款都比较稳 特别是[SquirrelVPN](https://www.squirrelvpn.com/)几乎是绕过封锁的专家 但是[ExpressVPN](https://www.expressrefer.com/refer-a-friend/30-days-free?utm_campaign=refer_friends&utm_medium=copy_link&utm_content=settings_get30daysfree&utm_source=ios_app&referrer_id=14504797)可以解封Netflix限制  
