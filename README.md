@@ -1,21 +1,19 @@
-# 科学上网 可点击View all of README.md有详细说明,**本集合旨在快速简单的科学上网,点击蓝色字体链接可进入相关页面** 
+# 科学上网 可点击View all of README.md有详细说明,**本集合旨在快速简单的科学上网[点击这下载VPN](https://github.com/yangqi0425/kexueshangwang/releases/),点击蓝色字体链接可进入相关页面** 
 
 *语言* : [中文](https://github.com/yangqi0425/kexueshangwang/blob/master/README.md) 
          ~~[한국어](https://github.com/yangqi0425/kexueshangwang/blob/master/README-KR.md)~~
          ~~[日本語](https://github.com/yangqi0425/kexueshangwang/blob/master/README-JP.md)~~
          [English](https://github.com/yangqi0425/kexueshangwang/blob/master/README-EN.md)  
          
-> update_20200608 出于下载的便利性删除安卓社交软件集合及motrix下载工具 
-
 > update_20200608   
-  更新了[**SquirrelVPN**](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/SquirrelVPN) [Windows、MAC、Android](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/SquirrelVPN)的版本 **推荐码: MQYFPU  可获三天免费试用**  
-  更新了[**ExpressVPN**](https://www.expressrefer.com/refer-a-friend/30-days-free?utm_campaign=refer_friends&utm_medium=copy_link&utm_content=settings_get30daysfree&utm_source=ios_app&referrer_id=14504797) [Windows、MAC](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/ExpressVPN)的版本   
+  更新了[**SquirrelVPN**](https://github.com/yangqi0425/kexueshangwang/releases) [Windows、MAC、Android](https://github.com/yangqi0425/kexueshangwang/releases)的版本 **推荐码: MQYFPU  可获三天免费试用**  
+  更新了[**ExpressVPN**](https://www.expressrefer.com/refer-a-friend/30-days-free?utm_campaign=refer_friends&utm_medium=copy_link&utm_content=settings_get30daysfree&utm_source=ios_app&referrer_id=14504797) [Windows、MAC](https://github.com/yangqi0425/kexueshangwang/releases)的版本   
   
   
 - [ExpressVPN](https://www.expressrefer.com/refer-a-friend/30-days-free?utm_campaign=refer_friends&utm_medium=copy_link&utm_content=settings_get30daysfree&utm_source=ios_app&referrer_id=14504797)和[SquirrelVPN](https://www.squirrelvpn.com/)都是收费软件 两款都比较稳 特别是[SquirrelVPN](https://www.squirrelvpn.com/)几乎是绕过封锁的专家 但是[ExpressVPN](https://www.expressrefer.com/refer-a-friend/30-days-free?utm_campaign=refer_friends&utm_medium=copy_link&utm_content=settings_get30daysfree&utm_source=ios_app&referrer_id=14504797)可以解封Netflix限制  
 **SquirrelVPN推荐码: MQYFPU  可获三天免费试用**
 - [Winscribe](https://chn.windscribe.com/)提供免费服务器 可作为备用       
-- 翻墙软件在[VPN文件夹](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN) **苹果** 可以切换至外区商店下载APP  
+- 翻墙软件在[VPN版本中](https://github.com/yangqi0425/kexueshangwang/releases) **苹果** 可以切换至外区商店下载APP  
 - 本集合大部分为安卓手机版本以及电脑版本([安卓谷歌play商店需安装谷歌框架](https://github.com/yangqi0425/kexueshangwang/tree/master/%E8%B0%B7%E6%AD%8C%E6%A1%86%E6%9E%B6%E5%AE%89%E8%A3%85))  
 
 **Telegram电报群**
@@ -31,16 +29,16 @@
 
 **VPN相关**    
 > [ExpressVPN官网](https://www.expressvpn.com/) 
-  - GitHub [备份下载](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/ExpressVPN)
+  - GitHub [备份下载](https://github.com/yangqi0425/kexueshangwang/releases)
 
 > [SquirrelVPN官网](https://www.squirrelvpn.com/) 
-  - GitHub [备份下载0](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/SquirrelVPN)
+  - GitHub [备份下载0](https://github.com/yangqi0425/kexueshangwang/releases)
   - GitHub [备份下载1](https://github.com/yangqi0425/download)  
   - GitHub [备份下载2](https://github.com/squirrelvpn/download/blob/master/README.md)  
   - 关于kakaotalk PC 端登陆的问题，需要开代理，点击Use Current Setting，然后VPN开全局模式就可以了
   
 > [WindscribeVPN官网](https://chn.windscribe.com/) 可右上角选择语言              
-  - GitHub[备份下载](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/Windscribe)
+  - GitHub[备份下载](https://github.com/yangqi0425/kexueshangwang/releases/)
   
 > [VPNGate官网](https://www.vpngate.net/cn/)  
   注:VPNGate是SoftetherVPN的插件 [SoftetherVPN官网](https://www.softether.org/)
@@ -81,7 +79,6 @@
 - **为了数据的安全不建议使用国产的安卓手机，无恶意特别指出华为**
  
 **更新日志:**
-> update_20200608 出于下载的便利性删除了安卓版社交软件集合  
 
 > update_20200608   
   更新了[**SquirrelVPN**](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/SquirrelVPN) [Windows、MAC、Android](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/SquirrelVPN)的版本 **推荐码: MQYFPU  可获三天免费试用**  
