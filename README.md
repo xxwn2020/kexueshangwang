@@ -3,7 +3,9 @@
 *语言* : [中文](https://github.com/yangqi0425/kexueshangwang/blob/master/README.md) 
          ~~[한국어](https://github.com/yangqi0425/kexueshangwang/blob/master/README-KR.md)~~
          ~~[日本語](https://github.com/yangqi0425/kexueshangwang/blob/master/README-JP.md)~~
-         [English](https://github.com/yangqi0425/kexueshangwang/blob/master/README-EN.md)   
+         [English](https://github.com/yangqi0425/kexueshangwang/blob/master/README-EN.md)  
+         
+> update_20200608 出于下载的便利性删除安卓社交软件集合及motrix下载工具 
 
 > update_20200608   
   更新了[**SquirrelVPN**](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/SquirrelVPN) [Windows、MAC、Android](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/SquirrelVPN)的版本 **推荐码: MQYFPU  可获三天免费试用**  
@@ -51,8 +53,8 @@
   
 > [VPN测速及其他推荐](https://10beasts.net/)  
 
-**软件**  
-> [社交软件安卓合集](https://github.com/yangqi0425/kexueshangwang/tree/master/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E8%BD%AF%E4%BB%B6%E5%90%88%E9%9B%86%E5%AE%89%E5%8D%93%E7%89%88)  
+~~**软件**  
+> [社交软件安卓合集](https://github.com/yangqi0425/kexueshangwang/tree/master/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E8%BD%AF%E4%BB%B6%E5%90%88%E9%9B%86%E5%AE%89%E5%8D%93%E7%89%88)  ~~
 
 **IPSec VPN服务器**
 > [一键安装脚本](https://github.com/yangqi0425/setup-ipsec-vpn/blob/master/README-zh.md)  
@@ -64,10 +66,10 @@
   - openwrt [各版本地址](https://github.com/yangqi0425/openwrt/releases)  
   - openwrt_19.07.02 [下载地址](https://github.com/yangqi0425/openwrt/releases/tag/v19.07.2)  
 
-**下载工具Motrix-完美替代迅雷**  
+~~**下载工具Motrix-完美替代迅雷**  
 > [Motrix官网](https://motrix.app/)  
-  - GitHub [备份地址](https://github.com/yangqi0425/Motrix)  
-  - GitHub [备份下载地址](https://github.com/agalwood/Motrix/releases)
+  - GitHub [备份地址](https://github.com/yangqi0425/Motrix)  ~~
+  ~~- GitHub [备份下载地址](https://github.com/agalwood/Motrix/releases)~~
   
   
 **如有协助翻译及相关问题者可在[Issues留言](https://github.com/yangqi0425/kexueshangwang/issues)，万分感谢**  
@@ -79,8 +81,11 @@
 - **为了数据的安全不建议使用国产的安卓手机，无恶意特别指出华为**
  
 **更新日志:**
+> update_20200608 出于下载的便利性删除了安卓版社交软件集合  
 
- > update_20200608 更新了[**SquirrelVPN**](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/SquirrelVPN) **推荐码: MQYFPU  可获三天免费试用**   
+> update_20200608   
+  更新了[**SquirrelVPN**](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/SquirrelVPN) [Windows、MAC、Android](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/SquirrelVPN)的版本 **推荐码: MQYFPU  可获三天免费试用**  
+  更新了[**ExpressVPN**](https://www.expressrefer.com/refer-a-friend/30-days-free?utm_campaign=refer_friends&utm_medium=copy_link&utm_content=settings_get30daysfree&utm_source=ios_app&referrer_id=14504797) [Windows、MAC](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/ExpressVPN)的版本 
 
 > update_20200526 更新了[**ExpressVPN**](https://www.expressrefer.com/refer-a-friend/30-days-free?utm_campaign=refer_friends&utm_medium=copy_link&utm_content=settings_get30daysfree&utm_source=ios_app&referrer_id=14504797) [Windows MAC LINUX](https://github.com/yangqi0425/kexueshangwang/tree/master/VPN/ExpressVPN)的版本   
 
