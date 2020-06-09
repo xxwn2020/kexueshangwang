@@ -53,8 +53,8 @@
   
 > [VPN测速及其他推荐](https://10beasts.net/)  
 
-~~**软件**  
-> [社交软件安卓合集](https://github.com/yangqi0425/kexueshangwang/tree/master/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E8%BD%AF%E4%BB%B6%E5%90%88%E9%9B%86%E5%AE%89%E5%8D%93%E7%89%88)  ~~
+~~**软件**~~
+~~> [社交软件安卓合集](https://github.com/yangqi0425/kexueshangwang/tree/master/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E8%BD%AF%E4%BB%B6%E5%90%88%E9%9B%86%E5%AE%89%E5%8D%93%E7%89%88)~~
 
 **IPSec VPN服务器**
 > [一键安装脚本](https://github.com/yangqi0425/setup-ipsec-vpn/blob/master/README-zh.md)  
@@ -65,11 +65,11 @@
 > [Openwrt官网](https://openwrt.org/start?id=zh/start)
   - openwrt [各版本地址](https://github.com/yangqi0425/openwrt/releases)  
   - openwrt_19.07.02 [下载地址](https://github.com/yangqi0425/openwrt/releases/tag/v19.07.2)  
-
-~~**下载工具Motrix-完美替代迅雷**  
-> [Motrix官网](https://motrix.app/)  
-  - GitHub [备份地址](https://github.com/yangqi0425/Motrix)  ~~
-  ~~- GitHub [备份下载地址](https://github.com/agalwood/Motrix/releases)~~
+  
+~~**下载工具Motrix-完美替代迅雷**~~  
+~~> [Motrix官网](https://motrix.app/)~~  
+~~- GitHub [备份地址](https://github.com/yangqi0425/Motrix)~~  
+~~- GitHub [备份下载地址](https://github.com/agalwood/Motrix/releases)~~    
   
   
 **如有协助翻译及相关问题者可在[Issues留言](https://github.com/yangqi0425/kexueshangwang/issues)，万分感谢**  
