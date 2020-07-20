@@ -4,7 +4,10 @@
          ~~[한국어](https://github.com/yangqi0425/kexueshangwang/blob/master/README-KR.md)~~
          ~~[日本語](https://github.com/yangqi0425/kexueshangwang/blob/master/README-JP.md)~~
          [English](https://github.com/yangqi0425/kexueshangwang/blob/master/README-EN.md)  
-         
+> undate_20200720   
+Squirrel_VPN 电脑端出现 network error 1和 network error 6的情况 Windows 可采用删除C盘个人用户目录下的squirrel-vpn.dat，然后重新登陆的方式解决。  
+MAC用户则采用   1. 退出松鼠  2. 达到，搜索squirrel-vpn.dat   3. 删除squirrel-vpn.dat   4. 重新打开松鼠的方式解决  
+
 > update_20200608   
   更新了[**SquirrelVPN**](https://github.com/yangqi0425/kexueshangwang/releases) [Windows、MAC、Android](https://github.com/yangqi0425/kexueshangwang/releases)的版本 **推荐码: MQYFPU  可获三天免费试用**  
   更新了[**ExpressVPN**](https://www.expressrefer.com/refer-a-friend/30-days-free?utm_campaign=refer_friends&utm_medium=copy_link&utm_content=settings_get30daysfree&utm_source=ios_app&referrer_id=14504797) [Windows、MAC](https://github.com/yangqi0425/kexueshangwang/releases)的版本   
