@@ -15,7 +15,7 @@
   
 - [ExpressVPN](https://www.expressrefer.com/refer-a-friend/30-days-free?utm_campaign=refer_friends&utm_medium=copy_link&utm_content=settings_get30daysfree&utm_source=ios_app&referrer_id=14504797)和[SquirrelVPN](https://www.squirrelvpn.com/)都是收费软件 两款都比较稳 特别是[SquirrelVPN](https://www.squirrelvpn.com/)几乎是绕过封锁的专家 但是[ExpressVPN](https://www.expressrefer.com/refer-a-friend/30-days-free?utm_campaign=refer_friends&utm_medium=copy_link&utm_content=settings_get30daysfree&utm_source=ios_app&referrer_id=14504797)可以解封Netflix限制  
 **SquirrelVPN推荐码: MQYFPU  可获三天免费试用**
-- [Winscribe](https://chn.windscribe.com/)提供免费服务器 可作为备用       
+- [Winscribe](https://windscribe.com/?affid=ve923umc)提供免费服务器 可作为备用       
 - 翻墙软件在[VPN版本中](https://github.com/yangqi0425/kexueshangwang/releases) **苹果** 可以切换至外区商店下载APP  
 - 本集合大部分为安卓手机版本以及电脑版本([安卓谷歌play商店需安装谷歌框架](https://github.com/yangqi0425/kexueshangwang/tree/master/%E8%B0%B7%E6%AD%8C%E6%A1%86%E6%9E%B6%E5%AE%89%E8%A3%85))  
 
@@ -40,7 +40,7 @@
   - GitHub [备份下载2](https://github.com/squirrelvpn/download/blob/master/README.md)  
   - 关于kakaotalk PC 端登陆的问题，需要开代理，点击Use Current Setting，然后VPN开全局模式就可以了
   
-> [WindscribeVPN官网](https://chn.windscribe.com/) 可右上角选择语言              
+> [WindscribeVPN官网](https://windscribe.com/?affid=ve923umc) 可右上角选择语言              
   - GitHub[备份下载](https://github.com/yangqi0425/kexueshangwang/releases/)
   
 > [VPNGate官网](https://www.vpngate.net/cn/)  
