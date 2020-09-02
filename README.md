@@ -3,8 +3,9 @@
 *语言* : [中文](https://github.com/yangqi0425/kexueshangwang/blob/master/README.md) 
          ~~[한국어](https://github.com/yangqi0425/kexueshangwang/blob/master/README-KR.md)~~
          ~~[日本語](https://github.com/yangqi0425/kexueshangwang/blob/master/README-JP.md)~~
-         [English](https://github.com/yangqi0425/kexueshangwang/blob/master/README-EN.md)  
-> undate_20200720   Squirrel_VPN 电脑端出现 network error 1和 network error 6的情况   
+         [English](https://github.com/yangqi0425/kexueshangwang/blob/master/README-EN.md) 
+> update_20200902 更新了SquirrelVPN的Windows、MAC、Linux的版本至1.0.0-109版本  
+> update_20200720   Squirrel_VPN 电脑端出现 network error 1和 network error 6的情况   
 - Windows 可采用删除C盘个人用户目录下的squirrel-vpn.dat，然后重新登陆的方式解决。  
 - MAC用户则采用   **1.** 退出松鼠 / **2.** 达到，搜索squirrel-vpn.dat / **3.** 删除squirrel-vpn.dat / **4.** 重新打开松鼠的方式解决  
 
